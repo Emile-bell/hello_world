@@ -1,2 +1,5 @@
 # hello_world
-just another repository
+
+hello everyone!
+
+I like weight-training
